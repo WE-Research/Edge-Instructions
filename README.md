@@ -4,5 +4,4 @@
    3. Select **Top sites and suggested content** under **Open new tabs with** ![MS Edge Open Microsoft Edge With Settings Highlight](/images/instructions-open_microsoft_edge_highlight.png)
 
 
-[Edge animated gif](/images/insta.gif)
-<IMG SRC="/images/insta.gif">
+<IMG SRC="/images/edge-default-homepage.gif">
