@@ -3,5 +3,4 @@
    2. Select **Start page** under **Open Microsoft Edge with**
    3. Select **Top sites and suggested content** under **Open new tabs with** ![MS Edge Open Microsoft Edge With Settings Highlight](/images/instructions-open_microsoft_edge_highlight.png)
 
-
 <IMG SRC="/images/edge-default-homepage.gif">
