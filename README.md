@@ -6,6 +6,6 @@ Please follow the instructions below before moving on:
 3. If your Microsoft Edge is set to another homepage, then you’ll need to follow the instructions below to reset it: 
    1. In Microsoft Edge, select **Settings and more** (**···-button**> **Settings** ![MS Edge Settings Highlight](/images/instructions-settings_highlight.png)
    2. Select **Start page** under **Open Microsoft Edge with**
-   3. Select **Top sites and suggested content** under **Open new tabs with** ![MS Edge Open Microsoft Edge With Settings Highlight](/images/instructions-open_microsoft%20edge_highlight.png)
+   3. Select **Top sites and suggested content** under **Open new tabs with** ![MS Edge Open Microsoft Edge With Settings Highlight](/images/instructions-open_microsoft_edge_highlight.png)
   
  
