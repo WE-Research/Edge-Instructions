@@ -1,5 +1,11 @@
+
 # Reset Microsoft Edge to its default homepage: 
-<IMG SRC="/images/edge-default-homepage.gif">
+
+<html>
+   <body>
+      <img src="/images/edge-default-homepage.gif">
+   </body>
+</html>
    
 1. In Microsoft Edge, click on the **Settings and more** button (i.e. **··· button**),
 2. Select **Settings** at the bottom of the menu 
