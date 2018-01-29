@@ -5,3 +5,4 @@
 
 
 [Edge animated gif](/images/insta.gif)
+<IMG SRC="/images/insta.gif">
