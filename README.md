@@ -1,4 +1,4 @@
-# Reset Microsoft Edge to Default Homepage
+ # Reset Microsoft Edge to the Default Homepage
 <img src="./images/edge-default-homepage.gif">  
 
 1. In Microsoft Edge, click on the **··· button** (i.e. **Settings and more** button)
