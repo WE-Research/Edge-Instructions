@@ -1,10 +1,9 @@
-# Reset Microsoft Edge to Default Homepage: 
+ # Reset Microsoft Edge to the Default Homepage
 <img src="./images/edge-default-homepage.gif">  
 
 1. In Microsoft Edge, click on the **··· button** (i.e. **Settings and more** button)
 2. Select **Settings** at the bottom of the menu 
 3. Select **Start page** in the **Open Microsoft Edge with** box
-4. Select **Top sites and suggested content** in the **Open new tabs with** box
 
 
 
