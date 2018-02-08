@@ -1,5 +1,5 @@
 # THIS PAGE IS NOT THE EDGE DEFAULT HOMEPAGE
-### Follow the Instructions on the page first to open the Edge default homepage
+### Follow the Instructions on this page first in order to open the Edge default homepage
 We will now reset Microsoft Edge to it's default homepage setting, and then we will open a new Edge window.
 
 <img src="./images/edge-default-homepage.gif">  
